@@ -4,8 +4,7 @@
 A basic object-oriented system for managing online courses, instructors, students, assignments, and grades.
 
 ##  UML Diagram
-![Screenshot 2025-07-21 185805-modified (1)_page-0001](https://github.com/user-attachments/assets/dd3393a6-d0c1-4449-a68c-e3e0fa94b9ee)
-
+<img width="1006" height="887" alt="image" src="https://github.com/user-attachments/assets/efb49747-87de-4276-8a13-c2a3d625b668" />
 
 ##  Features
 - User Roles: Instructor & Student
